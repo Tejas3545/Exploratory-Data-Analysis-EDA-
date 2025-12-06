@@ -7,4 +7,4 @@ scipy
 openpyxl
 requests
 python-dotenv
-google-generativeai
+# google-generativeai removed to avoid pydantic-core build (unused in repo)
