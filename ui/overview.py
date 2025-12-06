@@ -8,7 +8,7 @@ def render_overview(df: DataFrame):
     st.markdown("<br>", unsafe_allow_html=True)
     st.markdown("## Data Preview")
     st.dataframe(df.head(100))
-    st.markdown("## description")
+    st.markdown("## Description")
     st.dataframe(df.describe())
 
     # TODO: ADDING MORE columns CONFIGS
