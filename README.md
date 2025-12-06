@@ -130,14 +130,6 @@ No installation headaches.
 
 ---
 
-# 🚀 **Live Demo**
-
-👉 **App Link:** *[https://data-alchemy-lab.streamlit.app/](https://data-alchemy-lab.streamlit.app/)*
-
-Experience the app in full flow.
-
----
-
 # 🧬 **Architecture Overview**
 
 ```
