@@ -100,7 +100,7 @@ Perfect for ML model pre-analysis.
 
 ## 🧹 **4. Data Cleaning Assistance**
 
-(Not full cleaning — but essential diagnostics)
+(Full cleaning with but essential diagnostics)
 
 * Identify duplicate rows
 * Missing value density mapping
@@ -284,6 +284,11 @@ git push origin feature/your-feature-name
 📍 India
 💼 Engineering (B.Tech IT)
 🌐 GitHub: [https://github.com/Tejas3545](https://github.com/Tejas3545)
+
+**Dixita Balapuriya**
+📍 India
+💼 Engineering (B.Tech CSE)
+🌐 GitHub: [https://github.com/dixitaBalapuriya19](https://github.com/dixitaBalapuriya19 )
 
 ---
 
