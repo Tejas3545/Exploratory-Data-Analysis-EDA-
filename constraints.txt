@@ -1,0 +1,2 @@
+pyarrow==12.0.1
+# If another package forces a different pyarrow, update here and redeploy
