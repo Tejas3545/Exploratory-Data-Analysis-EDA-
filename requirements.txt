@@ -8,3 +8,4 @@ openpyxl
 requests
 python-dotenv
 # google-generativeai removed to avoid pydantic-core build (unused in repo)
+pyarrow==12.0.1
