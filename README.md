@@ -138,28 +138,6 @@ Experience the app in full flow.
 
 ---
 
-# 🖼️ **UI Screenshots (Placeholders)**
-
-Add real screenshots later; here is structure:
-
-```
-📁 assets/
-   ├─ upload_page.png
-   ├─ dataframe_preview.png
-   ├─ charts_dashboard.png
-   ├─ correlation_matrix.png
-```
-
-Embed them like this:
-
-```markdown
-<p align="center">
-  <img src="assets/upload_page.png" width="700"/>
-</p>
-```
-
----
-
 # 🧬 **Architecture Overview**
 
 ```
