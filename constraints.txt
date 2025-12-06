@@ -1,2 +1,4 @@
+# Prefer prebuilt pyarrow wheel
 pyarrow==12.0.1
-# If another package forces a different pyarrow, update here and redeploy
+# Pin numpy <2 to avoid runtime incompatibilities with compiled extensions
+numpy==1.25.3
