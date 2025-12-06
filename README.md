@@ -3,7 +3,7 @@
 *A seamless, intelligent, and interactive data-diagnostics experience — built for analysts, students, researchers, and problem-solving minds.*
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2N1dWgyZzZlZmdhY3U1OTB2aHAyeWdhNTVydGswNHJuZzdncWQzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="400"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2N1dWgyZzZlZmdhY3U1OTB2aHAyeWdhNTVydGswNHJuZzdncWQzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="600"/>
 </p>
 
 ---
